@@ -1,21 +1,14 @@
 ---
-title: 'About me'
+title: 'Sobre mi'
 menu:
   main:
-    name: "AboutMe"
+    name: "SobreMi"
 ---
 
-## Who am I
+## ¿Quien soy?
 
 Hola, aquí vas a leer un poco sobre mi 🤩
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
-
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
-
+Mi nombre es Alejandro Cortés, y estudié la Licenciatura en Informática.
+Hasta la fecha he trabajado de manera general en el procesamiento y análisis de información, sin embargo me gusta mucho el área de desarrollo, y muchas de las herramientas que utilizo día a día las he podido construir gracias a la programación.
+Actualmente busco ampliar y mejorar mis habilidades en el desarrollo, para poder construir herramientas más útiles y versatiles.
