@@ -7,5 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://alcortes-dev.github.io/alcortes_launchx_blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Comienza el aprendizaje</title>
+      <link>https://alcortes-dev.github.io/alcortes_launchx_blog/posts/post_1/</link>
+      <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://alcortes-dev.github.io/alcortes_launchx_blog/posts/post_1/</guid>
+      <description>Hola a todos.
+Solo queria dejar unas lineas para compartir que la experiencia de estas primeras practicas es muy estimulante.
+Seguire realizando cada una de las practicas para poder participar de manera más activa.
+Salud2!</description>
+    </item>
+    
+    <item>
+      <title>La Cultura de un Desarrollador de Software</title>
+      <link>https://alcortes-dev.github.io/alcortes_launchx_blog/posts/intro/</link>
+      <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://alcortes-dev.github.io/alcortes_launchx_blog/posts/intro/</guid>
+      <description>La cultura de de un profesional del Desarrollo de Software debe cubrir al menos lo siguiente:
+ Honestidad que permita saber a nuestros colaboradores y clientes que nuestra palabra tiene valor y en ningun momento se buscará sacar probecho propio a costa de otros. Confianza de nuestra parte a clientes y asociados, como de ellos a nosotros, buscando de esta manera trabajar con base en la verdad, y evitar perder en tiempo en sobre-analizar las intenciones de los otros.</description>
+    </item>
+    
   </channel>
 </rss>
