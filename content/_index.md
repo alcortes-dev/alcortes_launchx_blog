@@ -9,8 +9,8 @@ Te invito a conocer mis aprendizajes y leer mis experiencias.
 
 Mis expectativas para este proyecto son:
 
-- Aprender nuevas herramientas que mer permitan mejorar mis habilidades
-- Aprender nuevas habilidades en la programación
-- Conocer nuevos enfoque para el aprendizage
+* Aprender nuevas herramientas que mer permitan mejorar mis habilidades
+* Aprender nuevas habilidades en la programación
+* Conocer nuevos enfoque para el aprendizage
 
 🚀
